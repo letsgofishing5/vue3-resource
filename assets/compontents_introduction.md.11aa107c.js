@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./app.7afa3d4e.js";const f='{"title":"","description":"","frontmatter":{},"relativePath":"compontents/introduction.md","lastUpdated":1634449424632}',o={};function n(r,c,s,p,i,d){return a(),e("div")}var l=t(o,[["render",n]]);export{f as __pageData,l as default};
