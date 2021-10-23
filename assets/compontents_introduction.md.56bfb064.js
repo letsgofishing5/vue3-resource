@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./app.723bb326.js";const f='{"title":"","description":"","frontmatter":{},"relativePath":"compontents/introduction.md","lastUpdated":1634449424632}',a={};function n(r,c,s,p,i,d){return o(),e("div")}var l=t(a,[["render",n]]);export{f as __pageData,l as default};

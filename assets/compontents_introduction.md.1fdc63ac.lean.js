@@ -1,1 +1,0 @@
-import{_ as t,c as e,o}from"./app.cc5abbb0.js";const f='{"title":"","description":"","frontmatter":{},"relativePath":"compontents/introduction.md","lastUpdated":1634449424632}',a={};function c(n,r,s,p,i,d){return o(),e("div")}var l=t(a,[["render",c]]);export{f as __pageData,l as default};
