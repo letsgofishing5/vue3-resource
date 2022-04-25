@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e}from"./app.a200da2f.js";const f='{"title":"","description":"","frontmatter":{},"relativePath":"compontents/introduction.md","lastUpdated":1634449424632}',o={};function n(r,c,s,p,d,i){return e(),a("div")}var m=t(o,[["render",n]]);export{f as __pageData,m as default};

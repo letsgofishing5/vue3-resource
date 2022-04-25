@@ -1,0 +1,6 @@
+import{_ as r,c as t,e as a,a as e,o}from"./app.a200da2f.js";const f='{"title":"\u4ECB\u7ECD","description":"","frontmatter":{},"headers":[{"level":2,"title":"Github\u52A0\u901F","slug":"github\u52A0\u901F"},{"level":2,"title":"\u6587\u6863","slug":"\u6587\u6863"},{"level":2,"title":"\u5B98\u65B9\u8D44\u6E90","slug":"\u5B98\u65B9\u8D44\u6E90"}],"relativePath":"platform/introduction.md","lastUpdated":1634953030871}',i={},n=e('',4),s=e('',5);function l(h,c,u,d,_,p){return o(),t("div",null,[n,a(` ## \u6CE8\u610F\u4E8B\u9879
+::: warning \u6CE8\u610F
+\u5927\u90E8\u5206\u8D44\u6E90\u90FD\u6765\u81EA\u4E8E[Github](https://github.com/),\u6CA1\u6709\u7FFB\u5899\u7684\u60C5\u51B5\u4E0B\u8BBF\u95EE\u5F88\u6162\uFF01\uFF01\uFF01\u63A8\u8350\u4E24\u4E2A\u514D\u8D39\u7684\u65B9\u5F0F\u52A0\u901Fgithub\u8BBF\u95EE\uFF0C\u5982\u679C\u60A8\u6709\u66F4\u597D\u7684\u65B9\u5F0F\u6B22\u8FCE[\u63A8\u8350](https://github.com/hu-snail/vue3-resource/issues/new)
+- \u65B9\u5F0F\u4E00\uFF1A\u5B89\u88C5[dev-sidecar](https://gitee.com/docmirror/dev-sidecar) \u6709\u8BE6\u7EC6\u64CD\u4F5C\u6587\u6863
+- \u65B9\u5F0F\u4E8C\uFF1A\u5B89\u88C5[\u4F5B\u8DF3\u5899\uFF08fotiaoqiang\uFF09](https://github.com/getfotiaoqiang/download) 
+::: `),s])}var v=r(i,[["render",l]]);export{f as __pageData,v as default};
